@@ -1,0 +1,14 @@
+{
+  "name": "v2",
+  "version": "1.0.0",
+  "description": "## Installation     $ npm install",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jemimah",
+  "license": "ISC",
+  "dependencies": {
+    "tar": "^6.1.0"
+  }
+}
